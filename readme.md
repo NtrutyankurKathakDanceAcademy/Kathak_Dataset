@@ -24,6 +24,9 @@ The emotions portrayed in the dataset include:
 - Haasya
 - Veer
 
+[Link to Dataset](https://drive.google.com/file/d/17VgYIUf2tH0qAVZAhZhWFh-OtOCIsZdO/view?usp=sharing)
+
+
 **Acknowledgments**:
 
 The creation of the Kathak Face Expression Dataset was made possible by the collaboration and support of several individuals who contributed their expertise, time, and dedication. We extend our heartfelt acknowledgments to the following:
@@ -41,6 +44,4 @@ The Kathak Face Expression Dataset is made available under the **[Creative Commo
 
 If you use this dataset in your research or projects, kindly acknowledge it by citing the following:
 
-Apeksha Gaje Khopkar. "Kathak Face Expression Dataset." Ntrutyankur Kathak Dance Academy, 2023. [Link to Dataset](https://drive.google.com/file/d/17VgYIUf2tH0qAVZAhZhWFh-OtOCIsZdO/view?usp=sharing)
-
-
+    Apeksha Gaje Khopkar. "Kathak Face Expression Dataset." Ntrutyankur Kathak Dance Academy, 2023. 
