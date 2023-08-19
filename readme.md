@@ -2,7 +2,7 @@
 
 **Description:**
 
-This repository contains the **Kathak Face Expression Dataset** compiled by **Apeksha Gaje Khopkar** from **Ntrutyankur Kathak Dance Academy**. The dataset is designed for the purpose of facial expression recognition in the context of Kathak dance, a classical dance form of India. The dataset was curated with the contribution of Kathak disciples under the guidance of Ms. Apeksha Gaje Khopkar, as well as the valuable insights of Guru Rajashri Oak, Kathak exponent Mrs. Swati Surve, and Mr. Rohit Sharma.
+This repository contains the **Kathak Face Expression Dataset** compiled by **Apeksha Gaje Khopkar** Director of **Ntrutyankur Kathak Dance Academy**. The dataset is designed for the purpose of facial expression recognition in the context of Kathak dance, a classical dance form of India. The dataset was curated with the contribution of Kathak disciples under the guidance of Ms. Apeksha Gaje Khopkar, as well as the valuable insights of Guru Rajashri Oak, Kathak exponent Mrs. Swati Surve, and Mr. Rohit Sharma.
 
 **Dataset Details:**
 
